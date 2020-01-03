@@ -7,7 +7,7 @@ layout: default
     <figcaption>Nicholas Kissel <br /> PhD Student <br /> Carnegie Mellon University <br /> Contact: nkissel@andrew.cmu.edu </figcaption> 
 </figure>
 
-#### Hey
+<body font-size=10em> Animals in the Zoo </body>
 
 ## About
 
