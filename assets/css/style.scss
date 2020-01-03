@@ -32,9 +32,9 @@ figure {
     &:hover .anchor {
       text-decoration: none;
 
-      // .octicon-link {
-      //   visibility: visible;
-      // }
+      .octicon-link {
+        visibility: hidden;
+      }
     }
 
     tt,
