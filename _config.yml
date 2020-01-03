@@ -1,9 +1,9 @@
+plugins:
+  - jekyll-seo-tag
+
 theme: jekyll-theme-primer
 title: Nicholas Kissel
 tagline: A personal site
 description: A personal site
-
-plugins:
-  - jekyll-seo-tag
-
 author: Nicholas Kissel
+url: nkissel.github.io
