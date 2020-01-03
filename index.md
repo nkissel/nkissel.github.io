@@ -5,7 +5,7 @@ layout: default
 ## About
 
 <figure>
-    <img src='IMG_0487.jpeg' alt='missing' width='200' title='This is my cat!' style='float: left;' />
+    <img src='IMG_0487.jpeg' alt='missing' width='200' title='This is my cat!' style='float: right;' />
     <figcaption>Meowow!</figcaption> 
 </figure>
 
