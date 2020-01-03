@@ -29,14 +29,6 @@ figure {
       visibility: hidden;
     }
 
-    &:hover .anchor {
-      text-decoration: none;
-
-      .octicon-link {
-        visibility: hidden;
-      }
-    }
-
     tt,
     code {
       font-size: inherit;
