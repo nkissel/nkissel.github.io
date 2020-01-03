@@ -4,7 +4,9 @@
 @import "{{ site.theme }}";
 figure {
     position: relative;
+    text-align: center;
 }
 figure figcaption {
     position: absolute;
+
 }
