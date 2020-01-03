@@ -10,4 +10,4 @@ author: Nicholas Kissel
 
 markdown: kramdown
 kramdown:
-  auto_ids: true
+  auto_ids: false
