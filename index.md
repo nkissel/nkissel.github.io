@@ -10,7 +10,7 @@ layout: default
 Nicholas Kissel  
 PhD Student  
 Carnegie Mellon University  
-Contact: nkissel@andrew.cmu.edu  
+nkissel@andrew.cmu.edu  
   
 
 ## About
