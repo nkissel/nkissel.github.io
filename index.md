@@ -7,8 +7,8 @@ layout: default
 </figure>
 
   
-**Nicholas Kissel**
-**PhD Student** 
+**Nicholas Kissel**  
+**PhD Student**  
 **Carnegie Mellon University**  
 **Contact: nkissel@andrew.cmu.edu**  
 
