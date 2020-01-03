@@ -26,7 +26,7 @@ Hi! I am a first year PhD student in the [Department of Statistics & Data Scienc
 
 
 
-# News & Events
+## News & Events
 
 * **July 2019**: Invited talk at the 2019 Joint Statistical Meetings in Denver, CO.
 * **June 2018**: Work on predicting injuries in the U.S. Special Forces presented at the 2018 American College of Sports Medicine Annual Meeting in Minneapolis, MN.
