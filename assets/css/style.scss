@@ -2,10 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-figure {
-    display: relative;
-}
-figure figcaption {
-    display: relative;
-    text-align: left;
+img  {
+    float: right;
 }
