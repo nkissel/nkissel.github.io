@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{kdexample::} {::options auto_ids="false" /}
+## {kdexample::}{::options auto_ids="false" /}
 
 <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
