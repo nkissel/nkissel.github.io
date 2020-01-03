@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{::options auto_ids="false" /}
+{kdexample::} {::options auto_ids="false" /}
 
 <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
@@ -12,7 +12,7 @@ layout: default
 Nicholas Kissel  
 PhD Student  
 Carnegie Mellon University  
-Contact: nkissel@andrew.cmu.edu  
+nkissel@andrew.cmu.edu  
 
 
 # About
