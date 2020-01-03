@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{::options auto_ids="false" /}
+
 <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
 </figure>
