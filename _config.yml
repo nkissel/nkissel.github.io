@@ -1,6 +1,3 @@
-kramdown:
-  auto_ids: true
-
 plugins:
   - jekyll-seo-tag
 
@@ -10,3 +7,7 @@ tagline: A personal site
 description: A personal site
 author: Nicholas Kissel
 #url: nkissel.github.io
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
