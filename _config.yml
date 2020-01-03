@@ -10,4 +10,5 @@ author: Nicholas Kissel
 
 markdown: kramdown
 kramdown:
+  input: GFM
   auto_ids: false
