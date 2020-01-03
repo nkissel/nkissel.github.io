@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<img src="IMG_0487.jpeg" alt="Meow!" width="200" align = "right"/>
-
-This is my cat!
+<img src="IMG_0487.jpeg" alt="Meow!" width="200" align = "right" title="This is my cat!" />
 
 ## About
 
