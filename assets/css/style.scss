@@ -5,12 +5,6 @@
 figure {
     position: relative;
 }
-figure img {
-    display: block;
-}
-figcaption {
+figure figcaption {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
 }
