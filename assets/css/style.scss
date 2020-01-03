@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 figure {
-    position: relative;
-    text-align: center;
-}
-figure figcaption {
-    caption-side: bottom;
-}
+    display: table;
+  }
+  figcaption {
+    display: table-caption;
+    caption-side: top;
+  }
