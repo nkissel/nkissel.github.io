@@ -40,8 +40,3 @@ Currently, I am working on a model selection paper with [Lucas Mentch](http://lu
 # Talks & Presentations
 
 * Joint Statistical Meetings, Invited Session (July 2019)
-
-* * *
-
-[Helpful links](pages/links.md)
-
