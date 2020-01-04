@@ -2,7 +2,9 @@
 layout: default
 ---
 
-[Reading](pages/reading.md) &nbsp;&nbsp;&nbsp; [Links](pages/links.md) &nbsp;&nbsp;&nbsp; [Contact](pages/contact.md)
+<div style="text-align: right">
+<a href="pages/reading.md">Reading</a>
+ &nbsp;&nbsp;&nbsp; <a href="pages/links.md">Links</a> &nbsp;&nbsp;&nbsp; <a href="pages/contact.md">Contact</a> </div>
 
 <!-- <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
