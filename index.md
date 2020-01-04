@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Reading](pages/reading.md)  [Links](pages/links.md)  [contact](pages/contact.md)
+[Reading](pages/reading.md) &nbsp;&nbsp;&nbsp; [Links](pages/links.md) &nbsp;&nbsp;&nbsp; [Contact](pages/contact.md)
 
 <!-- <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
