@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Reading](pages/reading.md)  [Links](pages/links.md)  [contact](pages/contact.md)
+
 <!-- <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
 </figure>
