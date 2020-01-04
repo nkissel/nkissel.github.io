@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Links
 ---
 
 <!-- [Reading](reading.md) &nbsp;&nbsp;&nbsp; [Links](links.md) &nbsp;&nbsp;&nbsp; [Contact](contact.md) -->
