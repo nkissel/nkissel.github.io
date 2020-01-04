@@ -41,3 +41,7 @@ Currently, I am working on a model selection paper with [Lucas Mentch](http://lu
 
 * Joint Statistical Meetings, Invited Session (July 2019)
 
+* * *
+
+[Helpful links](pages/links.md)
+
