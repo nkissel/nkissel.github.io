@@ -4,9 +4,9 @@ layout: default
 
 <!-- [Reading](reading.md) &nbsp;&nbsp;&nbsp; [Links](links.md) &nbsp;&nbsp;&nbsp; [Contact](contact.md) -->
 
-<div style="text-align: right">
+<!-- <div style="text-align: right">
 <a href="pages/reading.html">Reading</a>
- &nbsp;&nbsp;&nbsp; <a href="pages/links.html">Links</a> &nbsp;&nbsp;&nbsp; <a href="pages/contact.html">Contact</a> </div>
+ &nbsp;&nbsp;&nbsp; <a href="pages/links.html">Links</a> &nbsp;&nbsp;&nbsp; <a href="pages/contact.html">Contact</a> </div> -->
 
 <!-- <figure>
     <img src='headshot.png' alt='missing' width='200' title='Me!' />
