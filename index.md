@@ -46,3 +46,13 @@ Currently, I am working on a model selection paper with [Lucas Mentch](http://lu
 # Talks & Presentations
 
 * Joint Statistical Meetings, Invited Session (July 2019)
+
+# Reading
+
+I'm keeping a running list of papers that I'm currently reading (or want to read) so that I don't have hundreds of tabs open on my internet browser all of the time.
+
+* [Cross validation with confidence](https://arxiv.org/pdf/1703.07904.pdf)
+* [Model confidence bounds for variable selection](https://arxiv.org/pdf/1611.09509.pdf)
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf)
+
+[Here](pages/reading.md) is a more comprehensive list.
