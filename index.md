@@ -40,7 +40,6 @@ Currently, I am working on a model selection paper with [Lucas Mentch](http://lu
 # Publications
 
 *Conference*
-
 * Beals, Kim & Keenan, Karen & Kissel, Nicholas & Mentch, Lucas & Yang, Wuxin & Nindl, Bradley & Mi, Qi. (2018). "Prediction of Lower Extremity Musculoskeletal Injuries for Naval Special Warfare Operators: A Machine Learning Approach." Medicine & Science in Sports & Exercise. 50. 735. 10.1249/01.mss.0000538422.06299.76. 
 * Nicholas J. Kissel and Lucas Mentch. “The Role of HbA1c in Hospital Readmission of Diabetic Patients.” Presented at the ACC Meeting of the Minds Conference. Boston College University, Chestnut Hill, MA, April 6-8, 2018. 
 
