@@ -17,6 +17,9 @@ Here is a more comprehensive list of reading material.
 * [Cross validation with confidence](https://arxiv.org/pdf/1703.07904.pdf)
 * [Model confidence bounds for variable selection](https://arxiv.org/pdf/1611.09509.pdf)
 
+**Ranking and Selection**
+* [Subset Selection Procedures: Review and Assessment](https://www.stat.purdue.edu/docs/research/tech-reports/1984/tr84-04.pdf)
+
 **Neural Nets**
 
 * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf)
