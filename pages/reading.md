@@ -35,3 +35,7 @@ Here is a more comprehensive list of reading material.
 * [Faster RCNN](https://github.com/jwyang/faster-rcnn.pytorch)
 * [YOLO, SSD, Retina Net](https://github.com/MrParosk/ml_playground/tree/master/computer_vision/object_detection)
 * [Kaggle Airbus](https://www.kaggle.com/witwitchayakarn/u-net-with-pytorch)
+
+**Miscellaneous**
+
+* [Please Stop Permuting Features An Explanation and Alternatives](https://arxiv.org/pdf/1905.03151.pdf)
