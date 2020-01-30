@@ -16,6 +16,10 @@ Here is a more comprehensive list of reading material.
 
 * [Cross validation with confidence](https://arxiv.org/pdf/1703.07904.pdf)
 * [Model confidence bounds for variable selection](https://arxiv.org/pdf/1611.09509.pdf)
+* [On the Consistency of Feature Selection using Greedy Least Squares Regression](http://www.jmlr.org/papers/volume10/zhang09a/zhang09a.pdf)
+* [Stability Selection](https://arxiv.org/pdf/0809.2932.pdf)
+* [Greed is Good: Algorithmic Results for Sparse Approximation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.321.1443&rep=rep1&type=pdf)
+* [Orthogonal Matching Pursuit for Sparse Signal Recovery With Noise](http://math.mit.edu/~liewang/OMP.pdf)
 
 **Ranking and Selection**
 * [Subset Selection Procedures: Review and Assessment](https://www.stat.purdue.edu/docs/research/tech-reports/1984/tr84-04.pdf)
