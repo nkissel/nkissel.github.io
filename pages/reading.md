@@ -45,3 +45,4 @@ Here is a more comprehensive list of reading material.
 
 * [Please Stop Permuting Features An Explanation and Alternatives](https://arxiv.org/pdf/1905.03151.pdf)
 * [Least Angle Regression](http://statweb.stanford.edu/~tibs/ftp/lars.pdf)
+* [Super Learner In Prediction](https://biostats.bepress.com/cgi/viewcontent.cgi?article=1269&context=ucbbiostat)
