@@ -20,6 +20,7 @@ Here is a more comprehensive list of reading material.
 * [Stability Selection](https://arxiv.org/pdf/0809.2932.pdf)
 * [Greed is Good: Algorithmic Results for Sparse Approximation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.321.1443&rep=rep1&type=pdf)
 * [Orthogonal Matching Pursuit for Sparse Signal Recovery With Noise](http://math.mit.edu/~liewang/OMP.pdf)
+* [An Asymptotic Theory for Linear Model Selection](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A7n21.pdf)
 
 **Ranking and Selection**
 * [Subset Selection Procedures: Review and Assessment](https://www.stat.purdue.edu/docs/research/tech-reports/1984/tr84-04.pdf)
@@ -43,3 +44,4 @@ Here is a more comprehensive list of reading material.
 **Miscellaneous**
 
 * [Please Stop Permuting Features An Explanation and Alternatives](https://arxiv.org/pdf/1905.03151.pdf)
+* [Least Angle Regression](http://statweb.stanford.edu/~tibs/ftp/lars.pdf)
