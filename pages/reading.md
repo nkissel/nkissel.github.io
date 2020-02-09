@@ -23,6 +23,7 @@ Here is a more comprehensive list of reading material.
 * [An Asymptotic Theory for Linear Model Selection](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A7n21.pdf)
 
 **Ranking and Selection**
+
 * [Subset Selection Procedures: Review and Assessment](https://www.stat.purdue.edu/docs/research/tech-reports/1984/tr84-04.pdf)
 
 **Neural Nets**
@@ -32,6 +33,14 @@ Here is a more comprehensive list of reading material.
 * [Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](https://arxiv.org/pdf/1311.2524.pdf)
 * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+
+**Random Forests**
+
+* [Asymptotic Distributions and Rates of Convergence for Random Forests via Generalized U-statistics](https://arxiv.org/pdf/1905.10651.pdf)
+* [Randomization as Regularization: A Degrees of Freedom Explanation for Random Forest Success](https://arxiv.org/pdf/1911.00190.pdf)
+* [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/pdf/1510.04342.pdf)
+* [Generalized Random Forests](https://arxiv.org/pdf/1610.01271.pdf)
+
 
 **Object Detection Tutorials, Projects, and Documentation**
 
