@@ -50,6 +50,13 @@ Here is a more comprehensive list of reading material.
 * [YOLO, SSD, Retina Net](https://github.com/MrParosk/ml_playground/tree/master/computer_vision/object_detection)
 * [Kaggle Airbus](https://www.kaggle.com/witwitchayakarn/u-net-with-pytorch)
 
+**Martian Craters**
+
+* [Cratering Chronology and the Evolution of Mars](https://link.springer.com/content/pdf/10.1023%2FA%3A1011945222010.pdf)
+* [A new global database of Mars impact craters ≥1 km: 1. Database creation, properties, and parameters](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2011JE003966)
+* [Effect of obliteration on crater-count chronologies for Martian surfaces](https://pdfs.semanticscholar.org/db5c/807a3ee0843788106f3b262fc41dbfd8198b.pdf)
+* [The Current Martian Cratering Rate](https://www.sciencedirect.com/science/article/pii/S0019103513001693?via%3Dihub)
+
 **Miscellaneous**
 
 * [Please Stop Permuting Features An Explanation and Alternatives](https://arxiv.org/pdf/1905.03151.pdf)
