@@ -21,6 +21,7 @@ Here is a more comprehensive list of reading material.
 * [Greed is Good: Algorithmic Results for Sparse Approximation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.321.1443&rep=rep1&type=pdf)
 * [Orthogonal Matching Pursuit for Sparse Signal Recovery With Noise](http://math.mit.edu/~liewang/OMP.pdf)
 * [An Asymptotic Theory for Linear Model Selection](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A7n21.pdf)
+* [Approximation and Learning by Greedy Algorithms](https://arxiv.org/pdf/0803.1718.pdf)
 
 **Ranking and Selection**
 
