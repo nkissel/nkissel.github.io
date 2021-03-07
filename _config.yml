@@ -3,8 +3,8 @@ plugins:
 
 theme: jekyll-theme-primer
 title: Nicholas Kissel
-tagline: A personal site
-description: A personal site
+tagline:
+description:
 author: Nicholas Kissel
 
 #url: nkissel.github.io
