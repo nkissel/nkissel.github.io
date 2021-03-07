@@ -19,7 +19,7 @@ figure {
     border-bottom: 1px solid lighten($gray-200, 3%);
   }
   a:not([href]) {
-    color: green;
+    color: rgb(128, 0, 0);
     text-decoration: none;
   }
 }
