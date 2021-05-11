@@ -39,11 +39,10 @@ Currently, I am working on a model selection paper with [Lucas Mentch](http://lu
 
 # Papers & Presentations
 *Peer-reviewed*
-* Meredith Wallace, Nicholas Kissel, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, Adriane Soehner, 540 Age Trends in Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank, Sleep, Volume 44, Issue Supplement_2, May 2021, Page A213, https://doi.org/10.1093/sleep/zsab072.538
+* Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, WendyTroxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler,Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner.  540 Age Trends in Sleep Across the Lifespan:  Findings from the Pittsburgh Lifespan Sleep Databank. Sleep, 44(Supplement 2), 05 2021.  ISSN 0161-8105.  doi:  https://doi.org/10.1093/sleep/zsab072.538.
 
 *Conference*
-* Beals, Kim & Keenan, Karen & Kissel, Nicholas & Mentch, Lucas & Yang, Wuxin & Nindl, Bradley & Mi, Qi. (2018). "Prediction of Lower Extremity Musculoskeletal Injuries for Naval Special Warfare Operators: A Machine Learning Approach." Medicine & Science in Sports & Exercise. 50. 735. 10.1249/01.mss.0000538422.06299.76. 
-* Nicholas J. Kissel and Lucas Mentch. “The Role of HbA1c in Hospital Readmission of Diabetic Patients.” Presented at the ACC Meeting of the Minds Conference. Boston College University, Chestnut Hill, MA, April 6-8, 2018.
+* Kim Beals, Karen A. Keenan, **Nicholas Kissel**, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi.  Prediction of lower extremity musculoskeletal injuries for naval special warfare operators:  A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018.  ISSN 0195-9131.
 
 *Preprints*
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch
