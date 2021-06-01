@@ -25,9 +25,9 @@ layout: default
     <figcaption>Nicholas Kissel <br /> PhD Student <br /> Carnegie Mellon University <br /> <a href="mailto:nkissel@andrew.cmu.edu">nkissel@andrew.cmu.edu</a> </figcaption> 
 </figure>
 
-Hi! I am a second year PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I recently finished my MS in Statistics at the University of Pittsburgh, where I worked under the supervision of Lucas Mentch. I am most interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
+Hi! I am a second year PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for forming model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
 
-Currently, I am working on a model selection paper with [Lucas Mentch](http://lucasmentch.com/index.html) and also completing my advanced data analysis project on crater detection under the supervision [Max G'Sell](https://www.andrew.cmu.edu/user/mgsell/). Additionally, I am a member of the Study Design and Analysis in Psychiatry group in the Psychiatry Department at Pitt.
+I recently finished a model set selection paper with [Lucas Mentch](http://lucasmentch.com/index.html) and I'm currently completing my advanced data analysis project on crater detection under the supervision [Max G'Sell](https://www.andrew.cmu.edu/user/mgsell/). Additionally, I am a member of the Study Design and Analysis in Psychiatry group in the Psychiatry Department at Pitt.
 
 
 # News & Events
