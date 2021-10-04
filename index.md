@@ -47,6 +47,11 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 *Preprints*
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch
 
+*In Review*
+* Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank 
+* Distance Measures for Interpretation of Clusters from Finite Mixture Models
+* Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial
+
 # Talks
 
 * Joint Statistical Meetings, Invited Session (July 2019)
