@@ -39,7 +39,7 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 
 # Papers & Presentations
 *Peer-reviewed*
-* Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, WendyTroxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler,Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. *Psychosomatic Medicine*, Accepted.  
+* Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. *Psychosomatic Medicine*, Accepted.  
 
 *Conference*
 * Kim Beals, Karen A. Keenan, **Nicholas Kissel**, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi.  Prediction of lower extremity musculoskeletal injuries for naval special warfare operators:  A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018.  ISSN 0195-9131.
