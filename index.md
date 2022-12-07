@@ -41,7 +41,7 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 *Peer-reviewed*
 * Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. *Psychosomatic Medicine*. 2022 Jan 28. doi: 10.1097/PSY.0000000000001060. Epub ahead of print. PubMed PMID: 35100181.
 * Rebecca Price, **Nicholas Kissel**, et al. International Pooled Patient-Level Metanalysis of Ketamine Infusion for Depression: In Search of Clinical Moderators. *Molecular Psychiatry*. 2022 Sep 7. https://doi.org/10.1038/s41380-022-01757-7
-* Margarita Labkovich, Andrew J. Warburton, Stephanie Ying, Aly A. Valliani, **Nicholas Kissel**, Randal A. Serafini, Raj Mathew, Megan Paul, Malin Hovstadius, Vicente Navarro, Aashay Patel, Harsha Reddy, James G. Chelnis. Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial. *Translational Vision Science & Technology*. 2022.
+* Margarita Labkovich, Andrew J. Warburton, Stephanie Ying, Aly A. Valliani, **Nicholas Kissel**, Randal A. Serafini, Raj Mathew, Megan Paul, Malin Hovstadius, Vicente Navarro, Aashay Patel, Harsha Reddy, James G. Chelnis. Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial. *Translational Vision Science & Technology*. 2022. https://doi.org/10.1167/tvst.11.10.35
 
 *Conference*
 * Kim Beals, Karen A. Keenan, **Nicholas Kissel**, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi.  Prediction of lower extremity musculoskeletal injuries for naval special warfare operators:  A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018.  ISSN 0195-9131.
@@ -49,6 +49,7 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 *Preprints*
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. In review. 
 * [Distance Measures for Interpretation of Clusters from Finite Mixture Models](https://arxiv.org/abs/2206.11465) with Meredith L. Wallace, Lisa McTeague, Jessica L. Graves, Cristina Tortora, Bradley Wheeler, & Satish Iyengar. In review. 
+* [On High-Dimensional Gaussian Comparisons For Cross-Validation](https://arxiv.org/abs/2211.04958) with Jing Lei
 
 # Talks
 
