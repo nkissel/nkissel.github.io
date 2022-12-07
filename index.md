@@ -49,7 +49,7 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 *Preprints*
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. In review. 
 * [Distance Measures for Interpretation of Clusters from Finite Mixture Models](https://arxiv.org/abs/2206.11465) with Meredith L. Wallace, Lisa McTeague, Jessica L. Graves, Cristina Tortora, Bradley Wheeler, & Satish Iyengar. In review. 
-* [On High-Dimensional Gaussian Comparisons For Cross-Validation](https://arxiv.org/abs/2211.04958) with Jing Lei
+* [On High-Dimensional Gaussian Comparisons For Cross-Validation](https://arxiv.org/abs/2211.04958) with Jing Lei.
 
 # Talks
 
