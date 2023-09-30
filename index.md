@@ -25,7 +25,7 @@ layout: default
     <figcaption>Nicholas Kissel <br /> PhD Student <br /> Carnegie Mellon University <br /> <a href="mailto:nkissel@andrew.cmu.edu">nkissel@andrew.cmu.edu</a> </figcaption> 
 </figure>
 
-Hi! I am a third year PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
+Hi! I am a PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
 
 I recently finished a model set selection paper with [Lucas Mentch](http://lucasmentch.com/index.html) and I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). My thesis will explore high dimensional gaussian comparisons for model selection.
 
