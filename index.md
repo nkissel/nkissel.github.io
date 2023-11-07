@@ -30,13 +30,6 @@ Hi! I am a PhD student in the [Department of Statistics & Data Science](http://w
 I recently finished a model set selection paper with [Lucas Mentch](http://lucasmentch.com/index.html) and I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). My thesis will explore high dimensional gaussian comparisons for model selection.
 
 
-# News & Events
-
-* **July 2019**: Invited talk at the 2019 Joint Statistical Meetings in Denver, CO.
-* **June 2018**: Work on predicting injuries in the U.S. Special Forces presented at the 2018 American College of Sports Medicine Annual Meeting in Minneapolis, MN.
-* **April 2018**: Presented "The Role of HbA1c in Hospital Readmission of Diabetic Patients" at the ACC Meeting of the Minds Conference at Boston College.
-* **October 2017**: Research with Lucas featured in the Pitt Pride [newsletter](https://www.asundergrad.pitt.edu/mentoring-future-gatekeepers-science).
-
 # Papers & Presentations
 *Peer-reviewed*
 * Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. *Psychosomatic Medicine*. 2022 Jan 28. 
@@ -51,16 +44,3 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. In review. 
 * [On High-Dimensional Gaussian Comparisons For Cross-Validation](https://arxiv.org/abs/2211.04958) with Jing Lei.
 
-# Talks
-
-* Joint Statistical Meetings, Invited Session (July 2019)
-
-# Reading
-
-I'm keeping a running list of papers that I'm currently reading (or want to read) so that I don't have hundreds of tabs open on my internet browser all of the time.
-
-* [Cross validation with confidence](https://arxiv.org/pdf/1703.07904.pdf)
-* [Model confidence bounds for variable selection](https://arxiv.org/pdf/1611.09509.pdf)
-* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf)
-
-[Here](pages/reading.md) is a more comprehensive list.
