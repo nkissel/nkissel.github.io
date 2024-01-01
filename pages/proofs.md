@@ -2,8 +2,10 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script>MathJax = {tex: {inlineMath: [["$", "$"]]}}</script>
 
-$$
-\int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
-$$
+In interest of helping others get quickly started reading my own work, I'll be putting some proofs here. I often find that the condensed proofs that get published in papers are difficult to read. I understand that it's good practice to modularize proofs, however, I find it difficult to continually jump back and forth between Lemma 1.12.4.52.1 and Lemma 5.6.1.1.1 in order to understand what's going on. 
 
-This is an inline equation: $ e^{i\pi} + 1 = 0 $
+Therefore, I will populate this page with some of my own notes. Proofs will be written in a more linear fashion, introducing lemmas as needed (to be then referenced later). Hopefully others will find this useful. 
+
+# High dimensional gaussian comparison for cv
+
+I will be putting some proof details here...
