@@ -13,9 +13,10 @@ I will be putting some proof details here...
 Testing to see if I can embed a pdf
 <html>
 <head>
-    <title>Embedded PDF Document</title>
+    <title>Embedded Overleaf Document</title>
+    <link rel="stylesheet" href="../assets/css/styles.css"> <!-- Link to your CSS file -->
 </head>
 <body>
-    <iframe src="https://nkissel.github.io/pdfs/2211.04958.pdf" width="100%" max-width="100%" height="1000px"></iframe>
+    <iframe src="https://nkissel.github.io/pdfs/2211.04958.pdf" class="responsive-iframe" height="600px"></iframe>
 </body>
 </html>

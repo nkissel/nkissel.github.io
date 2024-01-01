@@ -19,3 +19,24 @@ figure {
     border-bottom: 1px solid lighten($gray-200, 3%);
   }
 }
+
+/* Define the default styles for the iframe */
+.responsive-iframe {
+  width: 100%; /* Default width */
+  max-width: 100%; /* Maximum width */
+}
+
+/* Apply different styles for smaller screens using media queries */
+@media screen and (max-width: 768px) {
+  /* Adjust iframe size for screens up to 768px width */
+  .responsive-iframe {
+      width: 400px; /* Adjust the width as needed */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* Adjust iframe size for screens up to 480px width */
+  .responsive-iframe {
+      width: 200px; /* Adjust the width as needed */
+  }
+}
