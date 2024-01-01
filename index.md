@@ -27,7 +27,7 @@ layout: default
 
 Hi! I am a PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
 
-I recently finished a model set selection paper with [Lucas Mentch](http://lucasmentch.com/index.html) and I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). My thesis will explore high dimensional gaussian comparisons for model selection.
+I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). My thesis explores model confidence set procedures and builds upon my undergraduate work with [Lucas Mentch](http://lucasmentch.com/index.html). 
 
 
 # Papers & Presentations
@@ -42,5 +42,4 @@ I recently finished a model set selection paper with [Lucas Mentch](http://lucas
 
 *Preprints*
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. In review. 
-* [On High-Dimensional Gaussian Comparisons For Cross-Validation](https://arxiv.org/abs/2211.04958) with Jing Lei.
-
+* [Black-Box Model Confidence Sets Using Cross-Validation with High-Dimensional Gaussian Comparison](https://arxiv.org/abs/2211.04958) with Jing Lei.
