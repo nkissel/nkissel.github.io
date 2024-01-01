@@ -2,7 +2,7 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script>MathJax = {tex: {inlineMath: [["$", "$"]]}}</script>
 
-In interest of helping others get quickly started reading my own work, I'll be putting some proofs here. I often find that the condensed proofs that get published in papers are difficult to read. I understand that it's good practice to modularize proofs, however, I find it difficult to continually jump back and forth between Lemma 1.12.4.52.1 and Lemma 5.6.1.1.1 in order to understand what's going on. 
+In interest of helping others get quickly started reading my own work, I'll be putting some proofs here. I often find that the condensed proofs that get published in papers are difficult to read. I understand that it's good practice to modularize proofs, however, I find it difficult to continually jump forward to Lemma A.12.4.52.1 and Lemma D.6.1.1.1 in order to understand what's going on. 
 
 Therefore, I will populate this page with some of my own notes. Proofs will be written in a more linear fashion, introducing lemmas as needed (to be then referenced later). Hopefully others will find this useful. 
 

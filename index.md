@@ -40,3 +40,6 @@ I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.e
 *Preprints*
 * [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. In review. 
 * [Black-Box Model Confidence Sets Using Cross-Validation with High-Dimensional Gaussian Comparison](https://arxiv.org/abs/2211.04958) with Jing Lei.
+
+# Miscellaneous
+* [Proofs](pages/proofs.md) related to my work with Jing. 
