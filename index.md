@@ -20,7 +20,7 @@ layout: default
 
 <figure>
     <img src='headshot.png' alt='missing' width='180' title='Me!' />
-    <figcaption>Nicholas Kissel <br /> PhD Student <br /> Carnegie Mellon University <br /> <a href="mailto:nkissel@andrew.cmu.edu">nkissel@andrew.cmu.edu</a> </figcaption> 
+    <figcaption>Nicholas Kissel <a href="mailto:nkissel@andrew.cmu.edu">nkissel@andrew.cmu.edu</a> </figcaption> 
 </figure>
 
 Hi! I am a PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
