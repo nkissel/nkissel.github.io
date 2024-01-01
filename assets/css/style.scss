@@ -27,16 +27,16 @@ figure {
 }
 
 /* Apply different styles for smaller screens using media queries */
-@media screen and (max-width: 768px) {
-  /* Adjust iframe size for screens up to 768px width */
+@media screen and (max-width: 1300px) {
+  /* Adjust iframe size for screens up to 1300px width */
   .responsive-iframe {
-      width: 400px; /* Adjust the width as needed */
+      width: 1000px; /* Adjust the width as needed */
   }
 }
 
-@media screen and (max-width: 480px) {
-  /* Adjust iframe size for screens up to 480px width */
+@media screen and (max-width: 800px) {
+  /* Adjust iframe size for screens up to 800px width */
   .responsive-iframe {
-      width: 200px; /* Adjust the width as needed */
+      width: 700px; /* Adjust the width as needed */
   }
 }
