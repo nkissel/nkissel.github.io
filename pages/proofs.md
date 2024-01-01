@@ -16,6 +16,6 @@ Testing to see if I can embed a pdf
     <title>Embedded PDF Document</title>
 </head>
 <body>
-    <iframe src="https://github.com/nkissel/nkissel.github.io/blob/master/pdfs/2211.04958.pdf" width="100%" height="600px"></iframe>
+    <iframe src="https://nkissel.github.io/pdfs/2211.04958.pdf" width="100%" height="600px"></iframe>
 </body>
 </html>
