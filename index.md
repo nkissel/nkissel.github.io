@@ -19,7 +19,7 @@ layout: default
 # About
 
 <figure>
-    <img src='headshot.png' alt='missing' width='180' title='Me!' />
+    <img src='headshot.png' alt='missing' width='180' title="I don't look like this anymore" />
     <figcaption>Nicholas Kissel <br /> <a href="mailto:nkissel@andrew.cmu.edu">nkissel@andrew.cmu.edu</a> </figcaption> 
 </figure>
 
