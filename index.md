@@ -25,7 +25,7 @@ layout: default
 
 Hi! I am a PhD student in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
 
-I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). My thesis explores model confidence set procedures and builds upon my undergraduate work with [Lucas Mentch](http://lucasmentch.com/index.html). When I'm not working on my thesis, I'm collaborating with some [friends](https://sleep.pitt.edu/people/) in Pitt's Department of Psychiatry on sleep and depression research. 
+I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). My thesis explores model confidence set procedures and builds upon my undergraduate work with [Lucas Mentch](http://lucasmentch.com/index.html). When I'm not working on my thesis, I'm collaborating with some [faculty](https://sleep.pitt.edu/people/) in Pitt's Department of Psychiatry on sleep and depression research. 
 
 # Papers & Presentations
 *Peer-reviewed*
