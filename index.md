@@ -38,7 +38,7 @@ I'm currently working on my thesis, advised by [Jing Lei](https://www.stat.cmu.e
 * Kim Beals, Karen A. Keenan, **Nicholas Kissel**, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi.  Prediction of lower extremity musculoskeletal injuries for naval special warfare operators:  A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018.  ISSN 0195-9131.
 
 *Preprints*
-* [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. In review. 
+* [Forward Stability and Model Path Selection](https://arxiv.org/abs/2103.03462) with Lucas Mentch. Accepted. *Statistics and Computing.*
 * [Black-Box Model Confidence Sets Using Cross-Validation with High-Dimensional Gaussian Comparison](https://arxiv.org/abs/2211.04958) with Jing Lei.
 
 # Miscellaneous
