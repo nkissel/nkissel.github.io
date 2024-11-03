@@ -43,6 +43,8 @@ button {
   text-indent: 0;
   margin: 1em 3em 1em 3em;
   padding: 0em;
+  flex-direction: column; /* Change to row for larger screens */
+  align-items: center; /* Center items */
 }
 
 a {
