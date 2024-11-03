@@ -1,4 +1,18 @@
 /*-- scss:rules --*/
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url("assets/fonts/Comic Sans MS.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url("assets/fonts/Comic Sans MS Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
 .navbar,
 h1,
 h2, 
@@ -23,7 +37,7 @@ button {
 
 .right-fl-figure {
   float: right;
-  width: 180px;
+  width: 200px;
   text-align: center;
   font-size: smaller;
   text-indent: 0;
@@ -36,8 +50,8 @@ a {
 }
 
 .funfont {
-  // font-family: 'Comic Sans MS'!important;
-  font-family: 'Herculanum'!important;
+  font-family: 'Comic Sans MS'!important;
+  // font-family: 'Herculanum'!important;
   // font-family: 'Papyrus'!important;
 }
 
