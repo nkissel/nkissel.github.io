@@ -41,60 +41,6 @@ a {
   // font-family: 'Papyrus'!important;
 }
 
-.custom-button {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: lighten($link-color, 35%)!important; /* Light background for visibility */
-  border: 1px solid #ccc; /* Optional border */
-  border-radius: 5px; /* Rounded corners */
-  padding: 10px; /* Space around the text */
-  font-size: 16px; /* Font size */
-  color: #333; /* Text color */
-  cursor: pointer;
-  z-index: 1000; /* Ensure it appears above other elements */
-  // box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for better visibility */
-}
-
-/* Base styles for the toggle slider */
-#funFontSlider {
-  display: none; /* Hide the checkbox */
-}
-
-/* Styling for the slider label */
-.slider {
-  display: inline-block;
-  width: 50px;
-  height: 25px;
-  background-color: var(--bs-gray-500);
-  border-radius: 25px;
-  position: relative;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-/* Circle for the slider effect */
-.slider::before {
-  content: '';
-  position: absolute;
-  width: 21px;
-  height: 21px;
-  background-color: white;
-  border-radius: 50%;
-  transition: transform 0.3s ease;
-  top: 2px; /* Align with the label */
-  left: 2px; /* Start position */
-}
-
-/* Active state styles */
-#funFontSlider:checked + .slider {
-  background-color: $link-color; /* Color when active */
-}
-
-#funFontSlider:checked + .slider::before {
-  transform: translateX(25px); /* Move the circle to the right */
-}
-
 .responsive-iframe {
     position: relative;
     overflow: hidden;

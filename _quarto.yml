@@ -16,7 +16,7 @@ website:
       #   href: "javascript:void(0);"  # Prevents navigation
 format:
   html:
-    theme: [cosmo, assets/css/custom.scss]
+    theme: [litera, assets/css/custom.scss]
       # dark: [cyborg, custom.scss]
     grid: 
       body-width: 1000px
