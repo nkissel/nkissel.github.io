@@ -1,0 +1,21 @@
+---
+title: "Papers & Presentations"
+---
+
+
+## Peer-reviewed
+
+- Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. *Psychosomatic Medicine*. 2022 Jan 28. 
+- Rebecca Price, **Nicholas Kissel**, et al. International Pooled Patient-Level Metanalysis of Ketamine Infusion for Depression: In Search of Clinical Moderators. *Molecular Psychiatry*. 2022 Sep 7. 
+- Margarita Labkovich, Andrew J. Warburton, Stephanie Ying, Aly A. Valliani, **Nicholas Kissel**, Randal A. Serafini, Raj Mathew, Megan Paul, Malin Hovstadius, Vicente Navarro, Aashay Patel, Harsha Reddy, James G. Chelnis. Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial. *Translational Vision Science & Technology*. 2022. 
+- Meredith L. Wallace, Lisa McTeague, Jessica L. Graves, **Nicholas Kissel**, Cristina Tortora, Bradley Wheeler, and Satish Iyengar. Quantifying Distances between Non-elliptical Clusters to Enhance the Identification of Meaningful Emotional Reactivity Subtypes. *Data Science in Science*. 2022. 
+- **Nicholas Kissel** and Lucas Mentch. Forward stability and model path selection. *Statistics and Computing*. 2024.
+
+## Conference
+
+- Kim Beals, Karen A. Keenan, **Nicholas Kissel**, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi.  Prediction of lower extremity musculoskeletal injuries for naval special warfare operators:  A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018.  ISSN 0195-9131.
+
+## Preprints
+
+- [Black-Box Model Confidence Sets Using Cross-Validation with High-Dimensional Gaussian Comparison](https://arxiv.org/abs/2211.04958) with Jing Lei.
+

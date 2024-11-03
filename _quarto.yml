@@ -1,0 +1,27 @@
+project: 
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nicholas Kissel"
+  navbar:
+    right:
+      # - href: index.qmd
+      #   text: About
+      - href: pages/publications.qmd
+        text: Publications
+      - href: pages/misc.qmd
+        text: Misc
+      # - text: "Toggle Comic Sans"
+      #   href: "javascript:void(0);"  # Prevents navigation
+format:
+  html:
+    theme: [cosmo, assets/css/custom.scss]
+      # dark: [cyborg, custom.scss]
+    grid: 
+      body-width: 1000px
+    toc: false
+    include-after-body: custom.html  # Ensure this matches your JS filename
+
+
+

@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+:::{.right-fl-figure}
+![Nicholas Kissel <br> <a href="mailto:nkissel@andrew.cmu.edu">nkissel@andrew.cmu.edu</a>](assets/images/headshot.png)
+:::
+
+Hi! I recently defended my PhD thesis in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research. 
+
+My thesis was advised by [Jing Lei](https://www.stat.cmu.edu/~jinglei/). It explores model confidence set procedures and builds upon my undergraduate work with [Lucas Mentch](http://lucasmentch.com/index.html). Outside of my methodological and theoretical work, I also collaborate with some [faculty](https://sleep.pitt.edu/people/) in Pitt's Department of Psychiatry on sleep and depression research. 
+
+

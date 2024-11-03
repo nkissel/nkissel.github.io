@@ -1,0 +1,29 @@
+---
+title: "Miscellaneous"
+toc: true
+---
+
+## Slides
+
+I highly recommend using [quarto](https://quarto.org/docs/get-started/) to
+generate [revealjs](https://revealjs.com) slides.
+
+### Defense
+
+Below are my thesis defense slides, however, I've removed the final
+sections because I have a related upcoming paper that I'd like to keep secret. 
+
+:::{.box}
+:::{.responsive-iframe}
+<iframe src="../assets/slides/defense.html" 
+        width="90%" 
+        style="border: none;"></iframe>
+:::
+:::
+
+:::{.callout-note}
+Math may not render correctly by default. If it looks off, right click on
+an equation then navigate `Math Settings > Math Renderer > Common HTML`.
+:::
+
+<!-- ## Thesis notes -->

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "pages/misc.html",
+    "href": "pages/misc.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "I highly recommend using quarto to generate revealjs slides.\n\n\nBelow are my thesis defense slides, however, I’ve removed the final sections because I have a related upcoming paper that I’d like to keep secret.\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nMath may not render correctly by default. If it looks off, right click on an equation then navigate Math Settings &gt; Math Renderer &gt; Common HTML."
+  },
+  {
+    "objectID": "pages/misc.html#slides",
+    "href": "pages/misc.html#slides",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "I highly recommend using quarto to generate revealjs slides.\n\n\nBelow are my thesis defense slides, however, I’ve removed the final sections because I have a related upcoming paper that I’d like to keep secret.\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nMath may not render correctly by default. If it looks off, right click on an equation then navigate Math Settings &gt; Math Renderer &gt; Common HTML."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Nicholas Kissel  nkissel@andrew.cmu.edu\n\n\n\nHi! I recently defended my PhD thesis in the Department of Statistics & Data Science at Carnegie Mellon University. I am primarily interested in developing methods for generating model confidence sets. More broadly, I am interested in creating inferential procedures for machine learning modeling methods, as well as developing accessible statistical tools that are applicable to natural and social science research.\nMy thesis was advised by Jing Lei. It explores model confidence set procedures and builds upon my undergraduate work with Lucas Mentch. Outside of my methodological and theoretical work, I also collaborate with some faculty in Pitt’s Department of Psychiatry on sleep and depression research."
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Papers & Presentations",
+    "section": "",
+    "text": "Meredith Wallace, Nicholas Kissel, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. Psychosomatic Medicine. 2022 Jan 28.\nRebecca Price, Nicholas Kissel, et al. International Pooled Patient-Level Metanalysis of Ketamine Infusion for Depression: In Search of Clinical Moderators. Molecular Psychiatry. 2022 Sep 7.\nMargarita Labkovich, Andrew J. Warburton, Stephanie Ying, Aly A. Valliani, Nicholas Kissel, Randal A. Serafini, Raj Mathew, Megan Paul, Malin Hovstadius, Vicente Navarro, Aashay Patel, Harsha Reddy, James G. Chelnis. Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial. Translational Vision Science & Technology. 2022.\nMeredith L. Wallace, Lisa McTeague, Jessica L. Graves, Nicholas Kissel, Cristina Tortora, Bradley Wheeler, and Satish Iyengar. Quantifying Distances between Non-elliptical Clusters to Enhance the Identification of Meaningful Emotional Reactivity Subtypes. Data Science in Science. 2022.\nNicholas Kissel and Lucas Mentch. Forward stability and model path selection. Statistics and Computing. 2024."
+  },
+  {
+    "objectID": "pages/publications.html#peer-reviewed",
+    "href": "pages/publications.html#peer-reviewed",
+    "title": "Papers & Presentations",
+    "section": "",
+    "text": "Meredith Wallace, Nicholas Kissel, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. Psychosomatic Medicine. 2022 Jan 28.\nRebecca Price, Nicholas Kissel, et al. International Pooled Patient-Level Metanalysis of Ketamine Infusion for Depression: In Search of Clinical Moderators. Molecular Psychiatry. 2022 Sep 7.\nMargarita Labkovich, Andrew J. Warburton, Stephanie Ying, Aly A. Valliani, Nicholas Kissel, Randal A. Serafini, Raj Mathew, Megan Paul, Malin Hovstadius, Vicente Navarro, Aashay Patel, Harsha Reddy, James G. Chelnis. Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial. Translational Vision Science & Technology. 2022.\nMeredith L. Wallace, Lisa McTeague, Jessica L. Graves, Nicholas Kissel, Cristina Tortora, Bradley Wheeler, and Satish Iyengar. Quantifying Distances between Non-elliptical Clusters to Enhance the Identification of Meaningful Emotional Reactivity Subtypes. Data Science in Science. 2022.\nNicholas Kissel and Lucas Mentch. Forward stability and model path selection. Statistics and Computing. 2024."
+  },
+  {
+    "objectID": "pages/publications.html#conference",
+    "href": "pages/publications.html#conference",
+    "title": "Papers & Presentations",
+    "section": "Conference",
+    "text": "Conference\n\nKim Beals, Karen A. Keenan, Nicholas Kissel, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi. Prediction of lower extremity musculoskeletal injuries for naval special warfare operators: A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018. ISSN 0195-9131."
+  },
+  {
+    "objectID": "pages/publications.html#preprints",
+    "href": "pages/publications.html#preprints",
+    "title": "Papers & Presentations",
+    "section": "Preprints",
+    "text": "Preprints\n\nBlack-Box Model Confidence Sets Using Cross-Validation with High-Dimensional Gaussian Comparison with Jing Lei."
+  }
+]

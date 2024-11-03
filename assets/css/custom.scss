@@ -1,0 +1,124 @@
+/*-- scss:rules --*/
+.navbar,
+h1,
+h2, 
+h3, 
+h4,
+h5,
+h6 {
+  font-family: Arial,sans-serif!important;
+  font-weight: 600!important; /* Adjust to 600 or 700 for more boldness */
+}
+
+p,
+ol,
+ul,
+.quarto-title-author-name,
+.quarto-figure,
+.references,
+button {
+  font-family: Arial,sans-serif!important;
+  font-weight: 500!important; /* Adjust to 600 or 700 for more boldness */
+}
+
+.right-fl-figure {
+  float: right;
+  width: 180px;
+  text-align: center;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 1em 3em 1em 3em;
+  padding: 0em;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.funfont {
+  font-family: 'Comic Sans MS'!important;
+  // font-family: 'Herculanum'!important;
+  // font-family: 'Papyrus'!important;
+}
+
+.custom-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: lighten($link-color, 35%)!important; /* Light background for visibility */
+  border: 1px solid #ccc; /* Optional border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px; /* Space around the text */
+  font-size: 16px; /* Font size */
+  color: #333; /* Text color */
+  cursor: pointer;
+  z-index: 1000; /* Ensure it appears above other elements */
+  // box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow for better visibility */
+}
+
+/* Base styles for the toggle slider */
+#funFontSlider {
+  display: none; /* Hide the checkbox */
+}
+
+/* Styling for the slider label */
+.slider {
+  display: inline-block;
+  width: 50px;
+  height: 25px;
+  background-color: var(--bs-gray-500);
+  border-radius: 25px;
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Circle for the slider effect */
+.slider::before {
+  content: '';
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  background-color: white;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+  top: 2px; /* Align with the label */
+  left: 2px; /* Start position */
+}
+
+/* Active state styles */
+#funFontSlider:checked + .slider {
+  background-color: $link-color; /* Color when active */
+}
+
+#funFontSlider:checked + .slider::before {
+  transform: translateX(25px); /* Move the circle to the right */
+}
+
+.responsive-iframe {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9 aspect ratio */
+}
+.responsive-iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.box {
+  border: 4px solid #EF3A47; /* Blue border */
+  border-radius: 5px; /* Rounded corners */
+  padding: 5px 5px 5px 5px;
+  background-color: lighten(#EF3A47, 35%)!important; /* Light blue background */
+  margin: 0 0;
+  /*font-style: italic; /* Optional: to make the text italic */
+}
+
+/*-- scss:defaults --*/
+// $font-size-root: 18px;
+
+
+
