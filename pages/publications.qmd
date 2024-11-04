@@ -2,20 +2,83 @@
 title: "Papers & Presentations"
 ---
 
-
-## Peer-reviewed
-
-- Meredith Wallace, **Nicholas Kissel**, Martica Hall, Anne Germain, Karen Matthews, Wendy Troxel, Peter Franzen, Daniel Buysse, Kathryn Roecklein, Heather Gunn, Brant Hasler, Tina Goldstein, Dana McMakin, Eva Szigethy, and Adriane Soehner. Age Trends in Actigraphy and Self-Report Sleep Across the Lifespan: Findings from the Pittsburgh Lifespan Sleep Databank. *Psychosomatic Medicine*. 2022 Jan 28. 
-- Rebecca Price, **Nicholas Kissel**, et al. International Pooled Patient-Level Metanalysis of Ketamine Infusion for Depression: In Search of Clinical Moderators. *Molecular Psychiatry*. 2022 Sep 7. 
-- Margarita Labkovich, Andrew J. Warburton, Stephanie Ying, Aly A. Valliani, **Nicholas Kissel**, Randal A. Serafini, Raj Mathew, Megan Paul, Malin Hovstadius, Vicente Navarro, Aashay Patel, Harsha Reddy, James G. Chelnis. Virtual Reality Hemifield Measurements for Corrective Surgery Eligibility in Ptosis Patients: A Pilot Clinical Trial. *Translational Vision Science & Technology*. 2022. 
-- Meredith L. Wallace, Lisa McTeague, Jessica L. Graves, **Nicholas Kissel**, Cristina Tortora, Bradley Wheeler, and Satish Iyengar. Quantifying Distances between Non-elliptical Clusters to Enhance the Identification of Meaningful Emotional Reactivity Subtypes. *Data Science in Science*. 2022. 
-- **Nicholas Kissel** and Lucas Mentch. Forward stability and model path selection. *Statistics and Computing*. 2024.
-
-## Conference
-
-- Kim Beals, Karen A. Keenan, **Nicholas Kissel**, Lucas Mentch, Wuxin Yang, Bradley C. Nindl, and Qi Mi.  Prediction of lower extremity musculoskeletal injuries for naval special warfare operators:  A machine learning approach. Medicine & Science in Sports & Exercise, 50(5S), 2018.  ISSN 0195-9131.
+```{r makefunction, echo=FALSE}
+library(bibtex)
+generate_publication_html <- function(bib_data) {
+  html_output <- ""
+  
+  for (i in seq_along(bib_data)) {
+    # Extract fields safely
+    entry <- bib_data[[i]]
+    title <- if (!is.null(entry$title)) entry$title else "No title"
+    authors <- if (!is.null(entry$author)) {
+      paste(sapply(entry$author, function(author) paste(author)), collapse = ", ")
+    } else {
+      "No authors"
+    }
+    year <- if (!is.null(entry$year)) entry$year else "No year"
+    journal <- if (!is.null(entry$journal)) entry$journal else "arXiv"
+    url <- if (!is.null(entry$url)) entry$url else NULL
+    
+    # Create the card structure
+    # card <- paste0(
+    #   '<div class="card" style="margin: 30px; padding: 15px; border-radius: 5px;">\n',
+    #   '<h6>', title, '</h6>\n',
+    #   '<p style="margin-bottom: 5px;">', authors, '</p>\n',
+    #   '<p>', journal, ', ', year, '</p>\n'
+    # )
+    
+    card <- paste0(
+      '<div class="card bg-light mb-3" style="margin: 30px; border-radius: 5px;">\n',
+      '<div class="card-header" style="background-color:var(--bs-body-background)">', title, '</div>\n',
+      '<div class="card-body">\n',
+      '<p class="card-text">', authors, '</p>\n',
+      '<p class="card-text">', journal, ', ', year, '</p>\n'
+    )
+    
+    # Add a button for the link if a URL is present
+    if (!is.null(url)) {
+      card <- paste0(card,
+                     '<a href="', url, '" target="_blank">',
+                     '<button class="btn btn-outline-dark" type="button" style="border-radius:5px;position-bottom:0px;margin-bottom:0px;">Paper</button></a>')
+    }
+    
+    card <- paste0(card, '</div>\n</div>\n')
+    html_output <- paste0(html_output, card)
+  }
+  
+  return(html_output)
+}
+```
 
 ## Preprints
 
-- [Black-Box Model Confidence Sets Using Cross-Validation with High-Dimensional Gaussian Comparison](https://arxiv.org/abs/2211.04958) with Jing Lei.
+```{r preprint, echo=FALSE, results='asis'}
+
+# Read the .bib file
+bib_data <- rev(read.bib("preprint.bib"))
+
+# Generate the HTML and print it
+html <- generate_publication_html(bib_data)
+cat(html)
+
+```
+
+## Journal publications
+
+```{r journal, echo=FALSE, results='asis'}
+
+# Read the .bib file
+bib_data <- rev(read.bib("journal.bib"))
+
+# Generate the HTML and print it
+html <- generate_publication_html(bib_data)
+cat(html)
+
+```
+
+
+
+
+
 
